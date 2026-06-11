@@ -16,7 +16,6 @@
 
 🌱 Currently Learning:
 
-* Data Structures & Algorithms
 * Laravel Framework
 * Database Management Systems
 * Software Engineering
