@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,mysql,git,github,vscode,laravel" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,java,html,css,javascript,mysql,git,github,vscode,laravel" />
 
 </p>
 
