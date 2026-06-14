@@ -1,9 +1,9 @@
-# <h1 align="center">Hi 👋, I'm Sourav</h1>
+# <h1 align="center">Hi 👋, I'm SOURAV</h1>
 
 <h3 align="center">Computer Science & Engineering Student | Programmer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;CSE+Student+at+DIU;Passionate+About+Programming;Learning+Data+Structures+%26+Algorithms;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;CSE+Student+at+DIU;Passionate+About+Programming;Future+Software+Engineer" />
 </p>
 
 ---
@@ -19,6 +19,7 @@
 * Laravel Framework
 * Database Management Systems
 * Software Engineering
+* AI
 
 ⚡ Fun Fact:
 
