@@ -1,387 +1,246 @@
 <div align="center">
 
-# Hi 👋, I'm Sourav Kundu Samya
+<img src="./assets/banner.png" width="100%" alt="Sourav Kundu Samya — AI, Remote Sensing and Full Stack" />
 
-### AI Developer • Remote Sensing Enthusiast • Full Stack Developer
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Remote+Sensing+%26+GIS+Developer;Google+Earth+Engine+Developer;Building+AI-Powered+Satellite+Solutions"
-  alt="Typing animation"
-/>
-
-<br>
-
-<img
-  src="./assets/banner.png"
-  width="100%"
-  alt="Sourav Kundu Samya - AI, Satellite, Earth and Code"
-/>
-
-<br><br>
+<br />
 
 <a href="https://github.com/sourav7-1">
-  <img src="https://img.shields.io/github/followers/sourav7-1?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/GitHub-sourav7--1-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sourav_Kundu_Samya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="mailto:souravku0416@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sourav" />
 </a>
 
-<img
-  src="https://komarev.com/ghpvc/?username=sourav7-1&label=Profile%20Views&color=00a86b&style=for-the-badge"
-  alt="Profile views"
-/>
+<br /><br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=CSE+Student+%7C+AI+Developer;Remote+Sensing+%26+GeoAI+Enthusiast;Google+Earth+Engine+%26+Sentinel-2;Building+technology+for+real-world+impact" alt="Typing introduction" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=sourav7-1&label=PROFILE+VIEWS&color=0891B2&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/sourav7-1?label=FOLLOWERS&style=flat-square&color=10B981&logo=github" alt="GitHub followers" />
 
 </div>
 
----
+## `> whoami`
 
-## 🚀 About Me
-
-- 🎓 Computer Science and Engineering student at **Daffodil International University**
-- 🛰️ Currently developing an **AI-powered Satellite Tree Monitoring System**
-- 🌍 Working with **Google Earth Engine, Sentinel-2, GIS and Remote Sensing**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning and Computer Vision**
-- 💻 Building web applications with **Python, Flask, JavaScript and MySQL**
-- 🌱 Currently learning **Deep Learning, GeoAI and advanced satellite image analysis**
-- 🎯 Focused on building practical technology for real-world environmental problems
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" alt="Programming languages"/>
-</p>
-
-### Frameworks and Web Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,bootstrap" alt="Frameworks"/>
-</p>
-
-### AI, Machine Learning and Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI tools"/>
-</p>
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Computer Vision
-- Image Processing
-- Predictive Modelling
-
-### GIS and Remote Sensing
-
-- Google Earth Engine
-- Sentinel-2 Satellite Imagery
-- Leaflet
-- OpenStreetMap
-- GeoTIFF
-- Raster Image Processing
-- Vegetation Analysis
-- Spatial Data Analysis
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,vercel" alt="Development tools"/>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🌳 AI Satellite Tree Monitoring System
-
-An AI-powered web platform for satellite image collection, vegetation monitoring and environmental analysis.
-
-**Main features:**
-
-- Interactive map-based area selection
-- Polygon and rectangle drawing
-- Google Earth Engine integration
-- Automated Sentinel-2 image collection
-- Date range and cloud percentage filtering
-- Lowest-cloud image selection
-- Multi-band GeoTIFF export
-- Tree and vegetation analysis
-- Area calculation in hectares and square kilometres
-- Satellite layer preview
-- Full-screen image visualization
-- Analytics dashboard
-
-**Technologies:**
-
-`Python` `Flask` `Google Earth Engine` `Sentinel-2` `Leaflet` `JavaScript` `GeoTIFF`
-
----
-
-### 🛰️ Automated Sentinel-2 Image Pipeline
-
-A satellite data automation pipeline that collects and prepares Sentinel-2 images for AI-based analysis.
-
-```text
-Select Area on Map
-        ↓
-Send Coordinates and Date Range
-        ↓
-Google Earth Engine
-        ↓
-Filter Sentinel-2 Images
-        ↓
-Apply Cloud Mask
-        ↓
-Select Best Image
-        ↓
-Export Multi-band GeoTIFF
-        ↓
-Preview Satellite Layers
-        ↓
-AI and Vegetation Analysis
+```yaml
+name: Sourav Kundu Samya
+education: B.Sc. in Computer Science & Engineering
+university: Daffodil International University
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Remote Sensing, GIS & GeoAI
+  - Computer Vision & Satellite Image Analysis
+  - Full Stack Development
+currently_building: AI-powered Satellite Tree Monitoring System
+currently_learning: [Deep Learning, GeoAI, MLOps, LLMs]
+mission: Turn satellite data into practical environmental intelligence
 ```
 
-**Core capabilities:**
+## About me
 
-- Coordinate validation
-- Polygon closure
-- Date validation
-- Cloud percentage filtering
-- Sentinel-2 image searching
-- Acquisition date extraction
-- Google Drive export
-- Export task status tracking
-- AI-ready satellite dataset generation
+- 🛰️ I build workflows with **Google Earth Engine**, **Sentinel-2**, GIS and remote-sensing data.
+- 🌳 My current work explores AI-assisted tree, vegetation and land monitoring from satellite imagery.
+- 🧠 I enjoy turning machine-learning ideas into useful, end-to-end applications.
+- 🌐 I build web tools with Python, Flask, JavaScript and databases.
+- 🎯 I care about clean engineering, automation and technology with real-world impact.
 
----
+## Technology constellation
+
+<div align="center">
+
+### Languages & web
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,flask,nodejs,bootstrap&perline=10" alt="Languages and web technologies" />
+
+### AI, data & vision
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=8" alt="AI and computer vision technologies" />
+
+`NumPy` · `Pandas` · `Computer Vision` · `Image Processing` · `Predictive Modelling`
+
+### Geospatial engineering
+
+`Google Earth Engine` · `Sentinel-2` · `GeoTIFF` · `Raster Processing` · `Leaflet` · `OpenStreetMap` · `Spatial Analysis`
+
+### Data & tools
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,pycharm,vercel&perline=8" alt="Databases and development tools" />
+
+</div>
+
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 AI Satellite Tree Monitoring
+
+An AI-assisted platform for vegetation monitoring and environmental analysis using satellite imagery.
+
+**Highlights**
+
+- Interactive map-based area selection
+- Google Earth Engine integration
+- Sentinel-2 search and cloud filtering
+- Multi-band GeoTIFF export
+- Vegetation analytics and visualization
+
+`Python` `Flask` `Earth Engine` `Sentinel-2` `Leaflet`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ Sentinel-2 Automation Pipeline
+
+An end-to-end workflow that collects, filters and prepares satellite imagery for AI analysis.
+
+**Pipeline**
+
+`ROI → Validation → Cloud Mask → Best Image → GeoTIFF → AI-ready data`
+
+- Date and coordinate validation
+- Acquisition metadata extraction
+- Export tracking and preview layers
+
+`Remote Sensing` `GIS` `Automation` `GeoTIFF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 Student360 AI
 
-An AI-powered ecosystem designed to support university students throughout their academic journey.
+An AI-powered student ecosystem designed to support academic planning, learning and career preparation.
 
-**Planned features:**
+- Course recommendations and academic planning
+- GPA insights and exam preparation
+- Campus navigation and productivity tools
+- Career-assistance concepts
 
-- Course recommendations
-- Academic planning
-- GPA prediction
-- Campus navigation
-- Exam preparation
-- Career assistance
-- Student productivity tools
-- Smart notifications
+`AI` `Machine Learning` `Python` `Web`
 
-**Technologies:**
-
-`Artificial Intelligence` `Machine Learning` `Python` `Web Development` `Database`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏦 ZEN Bank Tracker
 
-A Flask-based lending and borrowing management application.
+A responsive lending and borrowing tracker for managing personal financial records.
 
-**Features:**
-
-- Track borrowed and lent money
-- Manage transaction records
-- Store data with SQLite
-- Responsive web interface
-- Financial record management
-
-**Technologies:**
+- Borrowed and lent money tracking
+- Transaction history and record management
+- Lightweight SQLite persistence
+- Responsive interface
 
 `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Human Following Robot
 
-A robotics project designed to detect and follow a human while avoiding obstacles.
+An embedded robotics project for detecting and following a person while avoiding obstacles.
 
-**Technologies and components:**
+`Arduino` `Ultrasonic Sensors` `Motor Driver` `Embedded Logic`
 
-- Arduino
-- Ultrasonic sensors
-- Motor driver
-- Obstacle avoidance
-- Human-following logic
-- Embedded system design
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔐 Digital Combination Lock
 
-A Digital Logic Design project implementing a secure combination-based locking system.
+A secure combination-lock design built from digital-logic and sequential-circuit concepts.
 
-**Concepts used:**
+`Logic Gates` `Flip-Flops` `Sequential Circuits` `Security Logic`
 
-- Digital logic gates
-- Flip-flops
-- Sequential circuits
-- Combination verification
-- Security logic
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-## 🎯 Current Focus
+[![Explore all repositories](https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/sourav7-1?tab=repositories)
+
+</div>
+
+## Current direction
 
 ```text
-Artificial Intelligence        ███████████████████░
-Remote Sensing and GIS         ███████████████████░
-Machine Learning               █████████████████░░░
-Computer Vision                ████████████████░░░░
-Full Stack Development         ███████████████░░░░░
-Cloud Automation               █████████████░░░░░░░
+Artificial Intelligence   ███████████████████░   Building intelligent systems
+Remote Sensing & GIS      ███████████████████░   Reading the Earth from space
+Machine Learning          █████████████████░░░   Learning from real-world data
+Computer Vision           ████████████████░░░░   Understanding pixels at scale
+Full Stack Development    ███████████████░░░░░   Shipping complete experiences
 ```
 
----
-
-## 📌 Projects to Pin on GitHub
-
-Pin these repositories from the **Customize your pins** option on your GitHub profile:
-
-1. 🌳 AI Satellite Tree Monitoring System
-2. 🛰️ Automated Sentinel-2 Pipeline
-3. 🎓 Student360 AI
-4. 🤖 A Machine Learning Project
-5. 💻 A Full Stack Web Project
-6. 🌍 A Remote Sensing or GIS Project
-
----
-
-## 📊 GitHub Statistics
+## GitHub telemetry
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Sourav's GitHub statistics"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&ring_color=8B5CF6&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=transparent&hide_border=true&title_color=0369A1&text_color=24292F&icon_color=059669&ring_color=7C3AED&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&ring_color=8B5CF6&rank_icon=github" alt="Sourav's GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=0369A1&text_color=24292F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
+</picture>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Most used languages"
-/>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sourav7-1&theme=transparent&hide_border=true&ring=22D3EE&fire=10B981&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sourav7-1&theme=transparent&hide_border=true&ring=0369A1&fire=059669&currStreakLabel=7C3AED&sideLabels=24292F&dates=57606A" />
+  <img src="https://streak-stats.demolab.com?user=sourav7-1&theme=transparent&hide_border=true&ring=22D3EE&fire=10B981&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=22D3EE&line=10B981&point=8B5CF6&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=0369A1&line=059669&point=7C3AED&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=22D3EE&line=10B981&point=8B5CF6&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</picture>
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+## Contribution orbit
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=sourav7-1&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+## Let's connect
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub activity graph"
-/>
+I'm open to learning, collaboration and conversations about AI, GeoAI, remote sensing and useful software.
 
-</div>
+<br />
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-sourav7--1-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourav7-1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Kundu_Samya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kundu-samya-387496367/)
+[![Email](https://img.shields.io/badge/Email-souravku0416%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravku0416@gmail.com)
 
-## 🏆 GitHub Trophies
+<br /><br />
 
-<div align="center">
+> **Turning satellite data into actionable intelligence with AI.**
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=sourav7-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub contribution snake animation"
-/>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/sourav7-1">
-  <img
-    src="https://img.shields.io/badge/GitHub-sourav7--1-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Sourav%20Kundu%20Samya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:souravku0416@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-souravku0416%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-📧 **Email:** souravku0416@gmail.com
-
-💼 **LinkedIn:** [Sourav Kundu Samya](https://www.linkedin.com/in/sourav-kundu-samya-387496367/)
-
-💻 **GitHub:** [github.com/sourav7-1](https://github.com/sourav7-1)
-
-</div>
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-> **“Turning satellite data into actionable intelligence using Artificial Intelligence.”**
-
-<br>
-
-### Code • Learn • Build • Improve • Repeat
-
-<br>
-
-⭐ **Thanks for visiting my GitHub profile!**
+<sub>Code · Learn · Build · Improve · Repeat</sub>
 
 </div>
