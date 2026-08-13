@@ -1,246 +1,478 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Sourav Kundu Samya — AI, Remote Sensing and Full Stack" />
+<img src="./assets/banner.png" width="100%" alt="Sourav Kundu Samya — AI, Backend, Databases & GeoAI" />
 
-<br />
+# Sourav Kundu Samya
 
-<a href="https://github.com/sourav7-1">
-  <img src="https://img.shields.io/badge/GitHub-sourav7--1-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sourav_Kundu_Samya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="mailto:souravku0416@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sourav" />
-</a>
+### CSE Student · Backend Developer · AI & GeoAI Enthusiast
 
-<br /><br />
+<p>
+  <a href="https://github.com/sourav7-1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:souravku0416@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=CSE+Student+%7C+AI+Developer;Remote+Sensing+%26+GeoAI+Enthusiast;Google+Earth+Engine+%26+Sentinel-2;Building+technology+for+real-world+impact" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=900&lines=Backend+%26+Database+Development;AI%2FML+%26+Computer+Vision;Remote+Sensing+%26+GeoAI;Building+Practical+Software+Systems" alt="Typing introduction"/>
 
-<br />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sourav7-1&label=PROFILE+VIEWS&color=0891B2&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sourav7-1?label=FOLLOWERS&style=flat-square&color=10B981&logo=github" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=sourav7-1&label=PROFILE+VIEWS&style=flat-square&color=0891B2" alt="Profile views"/>
 
 </div>
 
-## `> whoami`
+---
 
-```yaml
-name: Sourav Kundu Samya
-education: B.Sc. in Computer Science & Engineering
-university: Daffodil International University
-focus:
-  - Artificial Intelligence & Machine Learning
-  - Remote Sensing, GIS & GeoAI
-  - Computer Vision & Satellite Image Analysis
-  - Full Stack Development
-currently_building: AI-powered Satellite Tree Monitoring System
-currently_learning: [Deep Learning, GeoAI, MLOps, LLMs]
-mission: Turn satellite data into practical environmental intelligence
+## 👋 About Me
+
+I'm a **Computer Science & Engineering student at Daffodil International University** interested in building practical software systems across **backend development, database engineering, artificial intelligence, remote sensing and geospatial applications**.
+
+I enjoy working on projects where software, data and real-world problems come together — from designing relational databases and backend systems to processing satellite imagery for environmental intelligence.
+
+### What I work with
+
+* 🔧 Backend & web application development
+* 🗄️ Relational database design and SQL
+* 🤖 Artificial Intelligence & Machine Learning
+* 🛰️ Remote Sensing & GeoAI
+* 👁️ Computer Vision & Image Processing
+* 🌐 Full-stack web technologies
+* ⚙️ Automation and data-processing pipelines
+
+### Currently exploring
+
+`Deep Learning` · `GeoAI` · `MLOps` · `LLM Applications` · `Advanced Computer Vision`
+
+---
+
+# 🚀 Featured Projects
+
+## 🍽️ Smart Street Food Safety Inspection & Risk Analysis System
+
+A **database-driven food safety management platform** designed to centralize information about food vendors, food stalls, inspections, hygiene conditions, complaints and safety risks.
+
+The system focuses heavily on **database engineering and backend-driven data management**.
+
+### What it does
+
+* 🏪 Vendor and food-stall management
+* 🍜 Food and food-category management
+* 🔍 Food-safety inspection management
+* 🧼 Hygiene and safety-condition tracking
+* ⚠️ Risk-oriented inspection analysis
+* 📋 Complaint management
+* 👤 Authentication and role-based access
+* 📊 Dashboard and analytical reporting
+* 📈 Data visualization with Chart.js
+* 🔐 Database-level data integrity
+* ⚙️ Stored procedures, functions, triggers and views
+* 🔄 Transaction-based operations
+* 🚀 Indexed database queries
+
+### Database Architecture
+
+```text
+Users / Roles
+     │
+     ├───────────────┐
+     │               │
+Vendors / Stalls    Permissions
+     │
+     ├── Food
+     │
+     ├── Inspections
+     │       │
+     │       ├── Hygiene Records
+     │       └── Risk Assessment
+     │
+     └── Complaints
+             │
+             ↓
+       MySQL Database
+             │
+       ┌─────┴─────┐
+       ↓           ↓
+   Backend      Analytics
+       │           │
+       └─────┬─────┘
+             ↓
+        Web Dashboard
 ```
 
-## About me
+### Database Engineering
 
-- 🛰️ I build workflows with **Google Earth Engine**, **Sentinel-2**, GIS and remote-sensing data.
-- 🌳 My current work explores AI-assisted tree, vegetation and land monitoring from satellite imagery.
-- 🧠 I enjoy turning machine-learning ideas into useful, end-to-end applications.
-- 🌐 I build web tools with Python, Flask, JavaScript and databases.
-- 🎯 I care about clean engineering, automation and technology with real-world impact.
+`ERD` · `Normalization` · `Primary Keys` · `Foreign Keys` · `Unique Constraints` · `Check Constraints` · `Indexes` · `Transactions` · `Views` · `Stored Procedures` · `Functions` · `Triggers`
 
-## Technology constellation
+### Backend
 
-<div align="center">
+`Python` · `Flask` · `Flask-SQLAlchemy` · `Flask-Login` · `PyMySQL`
 
-### Languages & web
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,flask,nodejs,bootstrap&perline=10" alt="Languages and web technologies" />
+`HTML` · `CSS` · `Bootstrap 5` · `JavaScript` · `Chart.js`
 
-### AI, data & vision
+### Database
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=8" alt="AI and computer vision technologies" />
+`MySQL 8+`
 
-`NumPy` · `Pandas` · `Computer Vision` · `Image Processing` · `Predictive Modelling`
+> **Goal:** Build a reliable digital system for managing, monitoring and analyzing food-safety information.
 
-### Geospatial engineering
+---
 
-`Google Earth Engine` · `Sentinel-2` · `GeoTIFF` · `Raster Processing` · `Leaflet` · `OpenStreetMap` · `Spatial Analysis`
+## 🛰️ TerraWatch — Sentinel-2 Remote Sensing & GeoAI Pipeline
 
-### Data & tools
+A satellite-data processing platform designed to transform **user-selected geographic regions into analysis-ready remote-sensing datasets**.
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,pycharm,vercel&perline=8" alt="Databases and development tools" />
+The pipeline combines interactive GIS tools, Google Earth Engine and Sentinel imagery to automate satellite-data acquisition, processing and GeoTIFF generation.
 
-</div>
+### End-to-End Pipeline
 
-## Featured work
+```text
+Interactive ROI Selection
+          ↓
+Coordinate Validation
+          ↓
+Region Geometry
+          ↓
+Satellite Data Search
+          ↓
+Sentinel-1 / Sentinel-2
+          ↓
+Date & Cloud Filtering
+          ↓
+Cloud Masking
+          ↓
+Image Processing
+          ↓
+Vegetation / Radar Indices
+          ↓
+Multi-band GeoTIFF
+          ↓
+ML-ready Geospatial Data
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Key capabilities
 
-### 🌳 AI Satellite Tree Monitoring
+* 🗺️ Interactive ROI selection
+* 📐 Geographic coordinate validation
+* 🛰️ Sentinel satellite-data acquisition
+* 📅 Date-range filtering
+* ☁️ Cloud filtering and masking
+* 🌱 NDVI analysis
+* 🌿 EVI analysis
+* 🔥 NBR analysis
+* 📡 Sentinel-1 VV/VH radar information
+* 🖼️ Multi-band GeoTIFF generation
+* 📊 Satellite metadata processing
+* 🤖 ML-ready raster-data preparation
+* ⚙️ Automated Google Earth Engine workflows
 
-An AI-assisted platform for vegetation monitoring and environmental analysis using satellite imagery.
+### Geospatial Technologies
 
-**Highlights**
+`Google Earth Engine` · `Sentinel-1` · `Sentinel-2` · `GeoTIFF` · `GIS` · `Remote Sensing` · `Raster Processing` · `Spatial Analysis`
 
-- Interactive map-based area selection
-- Google Earth Engine integration
-- Sentinel-2 search and cloud filtering
-- Multi-band GeoTIFF export
-- Vegetation analytics and visualization
+### Web / Backend
 
-`Python` `Flask` `Earth Engine` `Sentinel-2` `Leaflet`
+`Python` · `Flask` · `JavaScript` · `Leaflet` · `OpenStreetMap`
 
-</td>
-<td width="50%" valign="top">
+> **Goal:** Turn raw satellite imagery into structured geospatial intelligence that can be used for environmental analysis and machine-learning workflows.
 
-### 🛰️ Sentinel-2 Automation Pipeline
+---
 
-An end-to-end workflow that collects, filters and prepares satellite imagery for AI analysis.
+# 🧰 Technical Skills
 
-**Pipeline**
+## 💻 Programming Languages
 
-`ROI → Validation → Cloud Mask → Best Image → GeoTIFF → AI-ready data`
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+</p>
 
-- Date and coordinate validation
-- Acquisition metadata extraction
-- Export tracking and preview layers
+`Python` · `C` · `C++` · `Java` · `JavaScript`
 
-`Remote Sensing` `GIS` `Automation` `GeoTIFF`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🔧 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
+</p>
+
+* REST-style backend development
+* API-based application architecture
+* Server-side application logic
+* Authentication & session management
+* Database integration
+* CRUD operations
+* Data validation
+* Backend automation
+* Database-driven web applications
+
+**Frameworks / Technologies**
+
+`Flask` · `FastAPI` · `Node.js` · `SQLAlchemy` · `Flask-Login`
+
+---
+
+## 🗄️ Database Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### SQL / Database
+
+* Relational database design
+* ER diagrams
+* Normalization
+* SQL queries
+* Joins
+* Aggregation
+* Subqueries
+* Constraints
+* Indexing
+* Transactions
+* Views
+* Stored procedures
+* Functions
+* Triggers
+
+**Databases**
+
+`MySQL` · `SQLite`
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Image Processing
+* Predictive Modelling
+* AI-powered application development
+
+**Libraries / Frameworks**
+
+`TensorFlow` · `PyTorch` · `Scikit-learn` · `OpenCV` · `NumPy` · `Pandas`
+
+---
+
+## 👁️ Computer Vision
+
+* Image processing
+* Face detection
+* Object detection concepts
+* Video processing
+* Feature extraction
+* Computer vision pipelines
+
+**Technologies**
+
+`OpenCV` · `InsightFace` · `SCRFD`
+
+---
+
+## 🛰️ Remote Sensing & GeoAI
+
+* Satellite imagery processing
+* Sentinel-1 / Sentinel-2
+* Google Earth Engine
+* GIS workflows
+* Raster processing
+* GeoTIFF
+* Vegetation analysis
+* Spatial analysis
+* NDVI / EVI / NBR
+* Radar VV / VH analysis
+* ML-ready geospatial datasets
+
+**Technologies**
+
+`Google Earth Engine` · `Sentinel-1` · `Sentinel-2` · `GeoTIFF` · `Leaflet` · `OpenStreetMap`
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
+
+Also experienced with:
+
+* Responsive UI development
+* Interactive maps
+* Leaflet
+* Dashboard interfaces
+* Data visualization
+* Chart.js
+
+---
+
+## 🛠️ Tools & Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,vercel,docker" />
+</p>
+
+`Git` · `GitHub` · `VS Code` · `PyCharm` · `Docker` · `Vercel`
+
+---
+
+# 📚 Other Projects
 
 ### 🎓 Student360 AI
 
-An AI-powered student ecosystem designed to support academic planning, learning and career preparation.
+An AI-oriented student platform concept for academic planning, learning assistance and career preparation.
 
-- Course recommendations and academic planning
-- GPA insights and exam preparation
-- Campus navigation and productivity tools
-- Career-assistance concepts
+`Python` · `AI/ML` · `Web`
 
-`AI` `Machine Learning` `Python` `Web`
+---
 
-</td>
-<td width="50%" valign="top">
+### 👁️ VisionScribe AI
+
+A video-analysis system combining **face detection and speech transcription**.
+
+* Human face presence detection
+* Maximum visible-face count
+* Identity remains unknown
+* Audio extraction
+* Whisper-based transcription
+* Timestamped transcript
+* Language detection
+
+`Python` · `FastAPI` · `OpenCV` · `InsightFace` · `Whisper`
+
+---
+
+### ☁️ Distributed Campus AI Compute Infrastructure
+
+A distributed private AI infrastructure concept designed to combine CPU/GPU resources from multiple locations for AI training and inference.
+
+`Python` · `FastAPI` · `React` · `Docker` · `Tailscale` · `PostgreSQL` · `SQLite`
+
+---
 
 ### 🏦 ZEN Bank Tracker
 
-A responsive lending and borrowing tracker for managing personal financial records.
+A lightweight application for tracking borrowed and lent money with transaction history and SQLite persistence.
 
-- Borrowed and lent money tracking
-- Transaction history and record management
-- Lightweight SQLite persistence
-- Responsive interface
+`Python` · `Flask` · `SQLite` · `JavaScript`
 
-`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🤖 Human Following Robot
 
-An embedded robotics project for detecting and following a person while avoiding obstacles.
+An embedded robotics project designed to follow a person while avoiding obstacles.
 
-`Arduino` `Ultrasonic Sensors` `Motor Driver` `Embedded Logic`
+`Arduino` · `Ultrasonic Sensors` · `Motor Driver`
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🔐 Digital Combination Lock
 
-A secure combination-lock design built from digital-logic and sequential-circuit concepts.
+A digital-logic security project using sequential-circuit concepts.
 
-`Logic Gates` `Flip-Flops` `Sequential Circuits` `Security Logic`
+`Logic Gates` · `Flip-Flops` · `Sequential Circuits`
 
-</td>
-</tr>
-</table>
+---
+
+# 🧠 Computer Science Foundation
+
+Alongside development, I'm building a foundation across:
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Computer Networks
+* Operating Systems concepts
+* Theory of Computation
+* Compiler Design
+* Digital Logic
+* Microprocessors
+* Numerical Methods
+* Systems Analysis & Design
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
-[![Explore all repositories](https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/sourav7-1?tab=repositories)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=0891B2&icon_color=059669" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=0891B2" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sourav7-1&hide_border=true&theme=transparent&ring=0891B2&fire=059669&currStreakLabel=0891B2" />
 
 </div>
 
-## Current direction
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=0891B2&line=059669&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+# 🎯 Current Direction
 
 ```text
-Artificial Intelligence   ███████████████████░   Building intelligent systems
-Remote Sensing & GIS      ███████████████████░   Reading the Earth from space
-Machine Learning          █████████████████░░░   Learning from real-world data
-Computer Vision           ████████████████░░░░   Understanding pixels at scale
-Full Stack Development    ███████████████░░░░░   Shipping complete experiences
+Backend Engineering       → Building reliable data-driven applications
+Database Engineering      → Designing structured and scalable data systems
+Artificial Intelligence   → Developing practical AI solutions
+GeoAI & Remote Sensing    → Turning satellite data into intelligence
+Computer Vision           → Understanding images and video with AI
+Software Engineering      → Building complete, usable systems
 ```
 
-## GitHub telemetry
+---
+
+# 🤝 Let's Connect
+
+I'm open to **collaboration, internships, research-oriented projects and software development opportunities** involving:
+
+`Backend Development` · `Database Systems` · `AI/ML` · `Computer Vision` · `Remote Sensing` · `GeoAI`
+
+<p align="center">
+
+<a href="https://github.com/sourav7-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:souravku0416@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&ring_color=8B5CF6&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=transparent&hide_border=true&title_color=0369A1&text_color=24292F&icon_color=059669&ring_color=7C3AED&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&ring_color=8B5CF6&rank_icon=github" alt="Sourav's GitHub statistics" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=0369A1&text_color=24292F" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
-</picture>
+### Build · Learn · Experiment · Improve
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sourav7-1&theme=transparent&hide_border=true&ring=22D3EE&fire=10B981&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sourav7-1&theme=transparent&hide_border=true&ring=0369A1&fire=059669&currStreakLabel=7C3AED&sideLabels=24292F&dates=57606A" />
-  <img src="https://streak-stats.demolab.com?user=sourav7-1&theme=transparent&hide_border=true&ring=22D3EE&fire=10B981&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=22D3EE&line=10B981&point=8B5CF6&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=0369A1&line=059669&point=7C3AED&area=true&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=22D3EE&line=10B981&point=8B5CF6&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</picture>
-
-</div>
-
-## Contribution orbit
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/sourav7-1/sourav7-1/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</picture>
-
-</div>
-
-## Let's connect
-
-<div align="center">
-
-I'm open to learning, collaboration and conversations about AI, GeoAI, remote sensing and useful software.
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-sourav7--1-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourav7-1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Kundu_Samya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kundu-samya-387496367/)
-[![Email](https://img.shields.io/badge/Email-souravku0416%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravku0416@gmail.com)
-
-<br /><br />
-
-> **Turning satellite data into actionable intelligence with AI.**
-
-<sub>Code · Learn · Build · Improve · Repeat</sub>
+**Turning data into useful intelligence and ideas into working systems.**
 
 </div>
