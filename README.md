@@ -1,478 +1,243 @@
-<div align="center">
+# 👋 Hi, I'm Sourav Kundu Samya
 
-<img src="./assets/banner.png" width="100%" alt="Sourav Kundu Samya — AI, Backend, Databases & GeoAI" />
+### CSE Student • Backend Developer • AI/ML • GeoAI
 
-# Sourav Kundu Samya
+Building practical software systems where **backend engineering, databases, AI, computer vision, and geospatial data** come together.
 
-### CSE Student · Backend Developer · AI & GeoAI Enthusiast
-
-<p>
+<p align="left">
   <a href="https://github.com/sourav7-1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:souravku0416@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=900&lines=Backend+%26+Database+Development;AI%2FML+%26+Computer+Vision;Remote+Sensing+%26+GeoAI;Building+Practical+Software+Systems" alt="Typing introduction"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sourav7-1&label=PROFILE+VIEWS&style=flat-square&color=0891B2" alt="Profile views"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=false&vCenter=true&width=700&lines=Backend+%26+API+Development;AI%2FML+%26+Computer+Vision;GeoAI+%26+Remote+Sensing;Database+Engineering;Distributed+AI+Infrastructure" />
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student at Daffodil International University** interested in building practical software systems across **backend development, database engineering, artificial intelligence, remote sensing and geospatial applications**.
+I'm a **Computer Science & Engineering student** interested in building real-world software and AI systems.
 
-I enjoy working on projects where software, data and real-world problems come together — from designing relational databases and backend systems to processing satellite imagery for environmental intelligence.
+My main areas of interest:
 
-### What I work with
+* 🔹 Backend & API Development
+* 🔹 Database Engineering & SQL
+* 🔹 Artificial Intelligence & Machine Learning
+* 🔹 Computer Vision
+* 🔹 Remote Sensing & GeoAI
+* 🔹 Full-Stack Web Development
+* 🔹 Automation & Data Pipelines
+* 🔹 Distributed AI Infrastructure
 
-* 🔧 Backend & web application development
-* 🗄️ Relational database design and SQL
-* 🤖 Artificial Intelligence & Machine Learning
-* 🛰️ Remote Sensing & GeoAI
-* 👁️ Computer Vision & Image Processing
-* 🌐 Full-stack web technologies
-* ⚙️ Automation and data-processing pipelines
-
-### Currently exploring
-
-`Deep Learning` · `GeoAI` · `MLOps` · `LLM Applications` · `Advanced Computer Vision`
+I enjoy taking an idea from **concept → architecture → implementation → deployment**.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🍽️ Smart Street Food Safety Inspection & Risk Analysis System
+### 🍔 Smart Street Food Safety
 
-A **database-driven food safety management platform** designed to centralize information about food vendors, food stalls, inspections, hygiene conditions, complaints and safety risks.
+A database-driven platform designed to monitor and analyze **street food safety, hygiene, inspections, complaints, and vendor risk**.
 
-The system focuses heavily on **database engineering and backend-driven data management**.
+**Highlights**
 
-### What it does
+* Hygiene scoring & grading
+* Inspection management
+* Complaint analysis
+* Vendor risk calculation
+* Reinspection tracking
+* SQL Functions, Procedures & Triggers
+* Dashboard & data visualization
 
-* 🏪 Vendor and food-stall management
-* 🍜 Food and food-category management
-* 🔍 Food-safety inspection management
-* 🧼 Hygiene and safety-condition tracking
-* ⚠️ Risk-oriented inspection analysis
-* 📋 Complaint management
-* 👤 Authentication and role-based access
-* 📊 Dashboard and analytical reporting
-* 📈 Data visualization with Chart.js
-* 🔐 Database-level data integrity
-* ⚙️ Stored procedures, functions, triggers and views
-* 🔄 Transaction-based operations
-* 🚀 Indexed database queries
-
-### Database Architecture
-
-```text
-Users / Roles
-     │
-     ├───────────────┐
-     │               │
-Vendors / Stalls    Permissions
-     │
-     ├── Food
-     │
-     ├── Inspections
-     │       │
-     │       ├── Hygiene Records
-     │       └── Risk Assessment
-     │
-     └── Complaints
-             │
-             ↓
-       MySQL Database
-             │
-       ┌─────┴─────┐
-       ↓           ↓
-   Backend      Analytics
-       │           │
-       └─────┬─────┘
-             ↓
-        Web Dashboard
-```
-
-### Database Engineering
-
-`ERD` · `Normalization` · `Primary Keys` · `Foreign Keys` · `Unique Constraints` · `Check Constraints` · `Indexes` · `Transactions` · `Views` · `Stored Procedures` · `Functions` · `Triggers`
-
-### Backend
-
-`Python` · `Flask` · `Flask-SQLAlchemy` · `Flask-Login` · `PyMySQL`
-
-### Frontend
-
-`HTML` · `CSS` · `Bootstrap 5` · `JavaScript` · `Chart.js`
-
-### Database
-
-`MySQL 8+`
-
-> **Goal:** Build a reliable digital system for managing, monitoring and analyzing food-safety information.
+**Tech Stack:**
+`MySQL` `Python` `Flask` `SQLAlchemy` `JavaScript` `Chart.js`
 
 ---
 
-## 🛰️ TerraWatch — Sentinel-2 Remote Sensing & GeoAI Pipeline
+### 🌍 TerraWatch — Sentinel Remote Sensing & GeoAI
 
-A satellite-data processing platform designed to transform **user-selected geographic regions into analysis-ready remote-sensing datasets**.
+A remote-sensing pipeline for processing **Sentinel satellite imagery** and extracting vegetation intelligence from user-defined geographic regions.
 
-The pipeline combines interactive GIS tools, Google Earth Engine and Sentinel imagery to automate satellite-data acquisition, processing and GeoTIFF generation.
+**Highlights**
 
-### End-to-End Pipeline
-
-```text
-Interactive ROI Selection
-          ↓
-Coordinate Validation
-          ↓
-Region Geometry
-          ↓
-Satellite Data Search
-          ↓
-Sentinel-1 / Sentinel-2
-          ↓
-Date & Cloud Filtering
-          ↓
-Cloud Masking
-          ↓
-Image Processing
-          ↓
-Vegetation / Radar Indices
-          ↓
-Multi-band GeoTIFF
-          ↓
-ML-ready Geospatial Data
-```
-
-### Key capabilities
-
-* 🗺️ Interactive ROI selection
-* 📐 Geographic coordinate validation
-* 🛰️ Sentinel satellite-data acquisition
-* 📅 Date-range filtering
-* ☁️ Cloud filtering and masking
-* 🌱 NDVI analysis
-* 🌿 EVI analysis
-* 🔥 NBR analysis
-* 📡 Sentinel-1 VV/VH radar information
-* 🖼️ Multi-band GeoTIFF generation
-* 📊 Satellite metadata processing
-* 🤖 ML-ready raster-data preparation
-* ⚙️ Automated Google Earth Engine workflows
-
-### Geospatial Technologies
-
-`Google Earth Engine` · `Sentinel-1` · `Sentinel-2` · `GeoTIFF` · `GIS` · `Remote Sensing` · `Raster Processing` · `Spatial Analysis`
-
-### Web / Backend
-
-`Python` · `Flask` · `JavaScript` · `Leaflet` · `OpenStreetMap`
-
-> **Goal:** Turn raw satellite imagery into structured geospatial intelligence that can be used for environmental analysis and machine-learning workflows.
-
----
-
-# 🧰 Technical Skills
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-</p>
-
-`Python` · `C` · `C++` · `Java` · `JavaScript`
-
----
-
-## 🔧 Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
-</p>
-
-* REST-style backend development
-* API-based application architecture
-* Server-side application logic
-* Authentication & session management
-* Database integration
-* CRUD operations
-* Data validation
-* Backend automation
-* Database-driven web applications
-
-**Frameworks / Technologies**
-
-`Flask` · `FastAPI` · `Node.js` · `SQLAlchemy` · `Flask-Login`
-
----
-
-## 🗄️ Database Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### SQL / Database
-
-* Relational database design
-* ER diagrams
-* Normalization
-* SQL queries
-* Joins
-* Aggregation
-* Subqueries
-* Constraints
-* Indexing
-* Transactions
-* Views
-* Stored procedures
-* Functions
-* Triggers
-
-**Databases**
-
-`MySQL` · `SQLite`
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Image Processing
-* Predictive Modelling
-* AI-powered application development
-
-**Libraries / Frameworks**
-
-`TensorFlow` · `PyTorch` · `Scikit-learn` · `OpenCV` · `NumPy` · `Pandas`
-
----
-
-## 👁️ Computer Vision
-
-* Image processing
-* Face detection
-* Object detection concepts
-* Video processing
-* Feature extraction
-* Computer vision pipelines
-
-**Technologies**
-
-`OpenCV` · `InsightFace` · `SCRFD`
-
----
-
-## 🛰️ Remote Sensing & GeoAI
-
-* Satellite imagery processing
-* Sentinel-1 / Sentinel-2
-* Google Earth Engine
-* GIS workflows
-* Raster processing
-* GeoTIFF
-* Vegetation analysis
-* Spatial analysis
-* NDVI / EVI / NBR
-* Radar VV / VH analysis
+* Interactive ROI selection
+* Sentinel-1 & Sentinel-2 processing
+* Google Earth Engine integration
+* Cloud filtering & masking
+* NDVI / EVI / NBR analysis
+* Multi-band GeoTIFF generation
+* Plantation & vegetation intelligence
 * ML-ready geospatial datasets
 
-**Technologies**
-
-`Google Earth Engine` · `Sentinel-1` · `Sentinel-2` · `GeoTIFF` · `Leaflet` · `OpenStreetMap`
-
----
-
-## 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-`HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
-
-Also experienced with:
-
-* Responsive UI development
-* Interactive maps
-* Leaflet
-* Dashboard interfaces
-* Data visualization
-* Chart.js
-
----
-
-## 🛠️ Tools & Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,vercel,docker" />
-</p>
-
-`Git` · `GitHub` · `VS Code` · `PyCharm` · `Docker` · `Vercel`
-
----
-
-# 📚 Other Projects
-
-### 🎓 Student360 AI
-
-An AI-oriented student platform concept for academic planning, learning assistance and career preparation.
-
-`Python` · `AI/ML` · `Web`
+**Tech Stack:**
+`Python` `Flask` `Google Earth Engine` `Sentinel-1` `Sentinel-2` `GeoTIFF` `Leaflet` `OpenStreetMap`
 
 ---
 
 ### 👁️ VisionScribe AI
 
-A video-analysis system combining **face detection and speech transcription**.
+An AI system that analyzes uploaded videos or public video sources to detect **human face presence** and generate timestamped speech transcripts.
+
+**Highlights**
 
 * Human face presence detection
-* Maximum visible-face count
-* Identity remains unknown
+* No identity identification
 * Audio extraction
-* Whisper-based transcription
+* Speech-to-text transcription
 * Timestamped transcript
-* Language detection
+* Bengali & multilingual speech support
 
-`Python` · `FastAPI` · `OpenCV` · `InsightFace` · `Whisper`
-
----
-
-### ☁️ Distributed Campus AI Compute Infrastructure
-
-A distributed private AI infrastructure concept designed to combine CPU/GPU resources from multiple locations for AI training and inference.
-
-`Python` · `FastAPI` · `React` · `Docker` · `Tailscale` · `PostgreSQL` · `SQLite`
+**Tech Stack:**
+`Python` `FastAPI` `OpenCV` `Whisper` `InsightFace` `SCRFD`
 
 ---
 
-### 🏦 ZEN Bank Tracker
+### ⚡ Distributed Campus AI Compute Infrastructure
 
-A lightweight application for tracking borrowed and lent money with transaction history and SQLite persistence.
+A distributed infrastructure concept for combining computing resources from multiple machines into a **private campus AI compute environment**.
 
-`Python` · `Flask` · `SQLite` · `JavaScript`
+**Highlights**
 
----
+* Distributed CPU/GPU resources
+* Central controller
+* GPU workload management
+* Docker-based execution
+* Tailscale private networking
+* React monitoring dashboard
+* PostgreSQL-based resource tracking
+* Wake-on-LAN support
 
-### 🤖 Human Following Robot
-
-An embedded robotics project designed to follow a person while avoiding obstacles.
-
-`Arduino` · `Ultrasonic Sensors` · `Motor Driver`
-
----
-
-### 🔐 Digital Combination Lock
-
-A digital-logic security project using sequential-circuit concepts.
-
-`Logic Gates` · `Flip-Flops` · `Sequential Circuits`
+**Tech Stack:**
+`Python` `FastAPI` `React` `Docker` `PostgreSQL` `Tailscale`
 
 ---
 
-# 🧠 Computer Science Foundation
+## 🛠️ Tech Stack
 
-Alongside development, I'm building a foundation across:
+### 💻 Languages
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Computer Networks
-* Operating Systems concepts
-* Theory of Computation
-* Compiler Design
-* Digital Logic
-* Microprocessors
-* Numerical Methods
-* Systems Analysis & Design
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript"/>
+</p>
 
----
+### ⚙️ Backend & Web
 
-# 📈 GitHub Activity
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,html,css,js"/>
+</p>
 
-<div align="center">
+### 🗄️ Databases
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=0891B2&icon_color=059669" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true&theme=transparent&title_color=0891B2" />
+### 🤖 AI / ML / Computer Vision
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=sourav7-1&hide_border=true&theme=transparent&ring=0891B2&fire=059669&currStreakLabel=0891B2" />
+`Scikit-learn` `Whisper` `InsightFace` `SCRFD`
 
-</div>
+### 🌍 GeoAI & Remote Sensing
 
----
+`Google Earth Engine`
+`Sentinel-1` `Sentinel-2`
+`GeoTIFF` `NDVI` `EVI` `NBR`
+`Leaflet` `OpenStreetMap`
 
-## 📊 Contribution Activity
+### 🔧 Tools & Infrastructure
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav7-1&bg_color=00000000&color=0891B2&line=059669&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-# 🎯 Current Direction
-
-```text
-Backend Engineering       → Building reliable data-driven applications
-Database Engineering      → Designing structured and scalable data systems
-Artificial Intelligence   → Developing practical AI solutions
-GeoAI & Remote Sensing    → Turning satellite data into intelligence
-Computer Vision           → Understanding images and video with AI
-Software Engineering      → Building complete, usable systems
-```
-
----
-
-# 🤝 Let's Connect
-
-I'm open to **collaboration, internships, research-oriented projects and software development opportunities** involving:
-
-`Backend Development` · `Database Systems` · `AI/ML` · `Computer Vision` · `Remote Sensing` · `GeoAI`
-
-<p align="center">
-
-<a href="https://github.com/sourav7-1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:souravku0416@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,linux"/>
 </p>
 
 ---
 
-<div align="center">
+## 📂 Other Projects
 
-### Build · Learn · Experiment · Improve
+| Project                     | Description                                            |
+| --------------------------- | ------------------------------------------------------ |
+| 🎓 Student360 AI            | AI-assisted student information & analytics platform   |
+| 💰 ZEN Bank Tracker         | Personal finance and transaction tracking system       |
+| 🤖 Human Following Robot    | Computer/robotics project for human-following behavior |
+| 🔐 Digital Combination Lock | Digital logic based security lock system               |
 
-**Turning data into useful intelligence and ideas into working systems.**
+---
 
-</div>
+## 🧠 Computer Science Foundation
+
+I have academic and practical experience with:
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Computer Networks & Data Communication
+* Operating Systems
+* Distributed Systems
+* Distributed Databases
+* Theory of Computation
+* Compiler Design
+* Microprocessors
+* Digital Logic Design
+* Systems Analysis & Design
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sourav7-1&show_icons=true&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav7-1&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p>
+<img src="https://streak-stats.demolab.com?user=sourav7-1&hide_border=true" />
+</p>
+
+---
+
+## 🔭 Currently Exploring
+
+* 🤖 Advanced AI/ML Systems
+* 🧠 Computer Vision
+* 🌍 GeoAI & Remote Sensing
+* ⚡ Distributed AI Infrastructure
+* ☁️ Cloud & Containerized Systems
+* 🗄️ Advanced Database Systems
+* 🚀 AI-powered Backend Applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **AI, software engineering, research projects, open-source collaboration, and interesting technical ideas**.
+
+<p align="left">
+  <a href="https://github.com/sourav7-1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sourav-kundu-samya-387496367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:souravku0416@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Build • Learn • Experiment • Improve</b>
+</p>
+
+<p align="center">
+  Turning ideas into working systems.
+</p>
