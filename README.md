@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sourav Kundu Samya
 
-### CSE Student • Backend Developer • AI/ML • GeoAI
+### CSE Student • Backend Developer • AI/ML
 
 Building practical software systems where **backend engineering, databases, AI, computer vision, and geospatial data** come together.
 
